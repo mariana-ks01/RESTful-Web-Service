@@ -1,1 +1,1 @@
-# RESTful-Web-Service built on Spring Boot
+# REST API for managing student data in h2 database
